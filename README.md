@@ -34,4 +34,10 @@ Sample output for Endpoint: Get Points
 
 ![get endpoint image](https://github.com/Malmurugan/Fetch_Takehome_Assignment/blob/main/screenshots/postman-get.png)
 
+## Logs:
+To view the logs, please use the below command:
+```
+docker logs <your_docker_container_id>
+```
+
 
