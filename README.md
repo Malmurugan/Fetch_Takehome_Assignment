@@ -13,7 +13,7 @@ docker build -t <your_dockername> .
 ```
 docker run -d -p 3000:3000 <your_dockername>
 ```
-Note: This application runs in port: 3000.
+Note: This application runs in port: 3000, make sure to free this port.
 
 4. The flask application is hosted at http://localhost:3000
 
