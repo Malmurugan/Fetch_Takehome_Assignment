@@ -15,6 +15,21 @@ docker run -d -p 3000:3000 <your_dockername>
 ```
 4. The flask application is hosted at http://localhost:3000
 
-## Sample postman outputs
+## Sample outputs (using postman):
 
-![This is an image](https://github.com/Malmurugan/Fetch_Takehome_Assignment/blob/main/screenshots/postman-get.png)
+Sample ouput for Endpoint: Process Receipts
+- Path: /receipts/process
+- Method: POST
+- Payload: Receipt JSON
+- Response: JSON containing an id for the receipt.
+
+![post endpoint image](https://github.com/Malmurugan/Fetch_Takehome_Assignment/blob/main/screenshots/postman-post.png)
+
+Sample output for Endpoint: Get Points
+- Path: /receipts/{id}/points
+- Method: GET
+- Response: A JSON object containing the number of points awarded.
+
+![get endpoint image](https://github.com/Malmurugan/Fetch_Takehome_Assignment/blob/main/screenshots/postman-get.png)
+
+
