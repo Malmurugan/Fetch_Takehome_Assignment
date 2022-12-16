@@ -17,3 +17,4 @@ docker run -d -p 3000:3000 <your_dockername>
 
 ## Sample postman outputs
 
+![This is an image](https://github.com/Malmurugan/Fetch_Takehome_Assignment/blob/main/screenshots/postman-get.png)
