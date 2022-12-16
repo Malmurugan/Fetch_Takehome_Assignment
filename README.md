@@ -1,5 +1,5 @@
 # Fetch_Takehome_Assignment
-
+Author: Malmurugan Sukumar
 ## Instructions
 
 1. Open the command line at the project folder.
