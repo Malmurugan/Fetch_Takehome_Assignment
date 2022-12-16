@@ -14,4 +14,6 @@ docker build -t <your_dockername> .
 docker run -d -p 3000:3000 <your_dockername>
 ```
 4. The flask application is hosted at http://localhost:3000
-5. 
+
+## Sample postman outputs
+
